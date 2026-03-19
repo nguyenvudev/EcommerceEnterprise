@@ -1,0 +1,12 @@
+D:\EcommerceEnterprise\src\EcommerceEnterprise.Domain\bin\Debug\net8.0\EcommerceEnterprise.Domain.deps.json
+D:\EcommerceEnterprise\src\EcommerceEnterprise.Domain\bin\Debug\net8.0\EcommerceEnterprise.Domain.dll
+D:\EcommerceEnterprise\src\EcommerceEnterprise.Domain\bin\Debug\net8.0\EcommerceEnterprise.Domain.pdb
+D:\EcommerceEnterprise\src\EcommerceEnterprise.Domain\obj\Debug\net8.0\EcommerceEnterprise.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\EcommerceEnterprise\src\EcommerceEnterprise.Domain\obj\Debug\net8.0\EcommerceEnterprise.Domain.AssemblyInfoInputs.cache
+D:\EcommerceEnterprise\src\EcommerceEnterprise.Domain\obj\Debug\net8.0\EcommerceEnterprise.Domain.AssemblyInfo.cs
+D:\EcommerceEnterprise\src\EcommerceEnterprise.Domain\obj\Debug\net8.0\EcommerceEnterprise.Domain.csproj.CoreCompileInputs.cache
+D:\EcommerceEnterprise\src\EcommerceEnterprise.Domain\obj\Debug\net8.0\EcommerceEnterprise.Domain.dll
+D:\EcommerceEnterprise\src\EcommerceEnterprise.Domain\obj\Debug\net8.0\refint\EcommerceEnterprise.Domain.dll
+D:\EcommerceEnterprise\src\EcommerceEnterprise.Domain\obj\Debug\net8.0\EcommerceEnterprise.Domain.pdb
+D:\EcommerceEnterprise\src\EcommerceEnterprise.Domain\obj\Debug\net8.0\ref\EcommerceEnterprise.Domain.dll
+D:\EcommerceEnterprise\src\EcommerceEnterprise.Domain\obj\Debug\net8.0\EcommerceEnterprise.Domain.csproj.AssemblyReference.cache

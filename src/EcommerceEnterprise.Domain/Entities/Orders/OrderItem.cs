@@ -1,0 +1,15 @@
+using EcommerceEnterprise.Domain.Common;
+
+namespace EcommerceEnterprise.Domain.Entities.Orders;
+
+public class OrderItem : BaseEntity
+{
+    public Guid OrderId { get; set; }
+    public Guid VariantId { get; set; }
+    public string ProductName { get; set; } = string.Empty;
+    public string VariantAttributes { get; set; } = "{}";
+    public decimal UnitPrice { get; set; }
+    public int Quantity { get; set; }
+    public decimal TotalPrice { get; set; }
+    public bool IsReviewed { get; set; } = false;
+}

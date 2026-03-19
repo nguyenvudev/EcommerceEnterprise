@@ -1,0 +1,46 @@
+using EcommerceEnterprise.Application.Common.Models;
+using EcommerceEnterprise.Domain.Entities.Products;
+using EcommerceEnterprise.Domain.Interfaces;
+using MediatR;
+
+namespace EcommerceEnterprise.Application.Features.Products.Queries.GetProductDetail;
+
+public class GetProductDetailQueryHandler(
+    IRepository<Product> productRepo)
+    : IRequestHandler<GetProductDetailQuery, Result<ProductDetailDto>>
+{
+    public async Task<Result<ProductDetailDto>> Handle(
+        GetProductDetailQuery request, CancellationToken ct)
+    {
+        var products = await productRepo.FindAsync(
+            p => p.Slug == request.Slug && p.IsActive, ct);
+
+        var product = products.FirstOrDefault();
+
+        if (product == null)
+            return Result<ProductDetailDto>.Failure(
+                "Không tìm thấy sản phẩm.", 404);
+
+        var dto = new ProductDetailDto(
+            product.Id,
+            product.Name,
+            product.Slug,
+            product.Description,
+            product.BasePrice,
+            product.AverageRating,
+            product.TotalReviews,
+            product.CategoryId,
+            product.Variants
+                .Where(v => v.IsActive)
+                .Select(v => new VariantDto(
+                    v.Id, v.SKU, v.AttributesJson,
+                    v.Price, v.CompareAtPrice, v.IsActive))
+                .ToList(),
+            product.Images
+                .OrderBy(i => i.SortOrder)
+                .Select(i => i.Url)
+                .ToList());
+
+        return Result<ProductDetailDto>.Success(dto);
+    }
+}

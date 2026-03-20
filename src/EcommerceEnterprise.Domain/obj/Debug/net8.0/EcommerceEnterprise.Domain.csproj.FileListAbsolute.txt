@@ -10,3 +10,4 @@ D:\EcommerceEnterprise\src\EcommerceEnterprise.Domain\obj\Debug\net8.0\refint\Ec
 D:\EcommerceEnterprise\src\EcommerceEnterprise.Domain\obj\Debug\net8.0\EcommerceEnterprise.Domain.pdb
 D:\EcommerceEnterprise\src\EcommerceEnterprise.Domain\obj\Debug\net8.0\ref\EcommerceEnterprise.Domain.dll
 D:\EcommerceEnterprise\src\EcommerceEnterprise.Domain\obj\Debug\net8.0\EcommerceEnterprise.Domain.csproj.AssemblyReference.cache
+D:\EcommerceEnterprise\src\EcommerceEnterprise.Domain\obj\Debug\net8.0\EcommerceEnterprise.Domain.sourcelink.json

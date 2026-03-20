@@ -97,3 +97,4 @@ D:\EcommerceEnterprise\tests\EcommerceEnterprise.IntegrationTests\obj\Debug\net8
 D:\EcommerceEnterprise\tests\EcommerceEnterprise.IntegrationTests\obj\Debug\net8.0\EcommerceEnterprise.IntegrationTests.pdb
 D:\EcommerceEnterprise\tests\EcommerceEnterprise.IntegrationTests\obj\Debug\net8.0\EcommerceEnterprise.IntegrationTests.genruntimeconfig.cache
 D:\EcommerceEnterprise\tests\EcommerceEnterprise.IntegrationTests\obj\Debug\net8.0\ref\EcommerceEnterprise.IntegrationTests.dll
+D:\EcommerceEnterprise\tests\EcommerceEnterprise.IntegrationTests\obj\Debug\net8.0\EcommerceEnterprise.IntegrationTests.sourcelink.json

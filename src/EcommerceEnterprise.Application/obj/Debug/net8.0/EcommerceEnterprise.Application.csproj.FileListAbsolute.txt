@@ -13,3 +13,4 @@ D:\EcommerceEnterprise\src\EcommerceEnterprise.Application\obj\Debug\net8.0\Ecom
 D:\EcommerceEnterprise\src\EcommerceEnterprise.Application\obj\Debug\net8.0\refint\EcommerceEnterprise.Application.dll
 D:\EcommerceEnterprise\src\EcommerceEnterprise.Application\obj\Debug\net8.0\EcommerceEnterprise.Application.pdb
 D:\EcommerceEnterprise\src\EcommerceEnterprise.Application\obj\Debug\net8.0\ref\EcommerceEnterprise.Application.dll
+D:\EcommerceEnterprise\src\EcommerceEnterprise.Application\obj\Debug\net8.0\EcommerceEnterprise.Application.sourcelink.json

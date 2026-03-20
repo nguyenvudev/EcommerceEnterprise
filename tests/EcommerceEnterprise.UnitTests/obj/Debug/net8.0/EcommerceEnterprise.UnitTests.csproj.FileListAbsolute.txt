@@ -97,3 +97,4 @@ D:\EcommerceEnterprise\tests\EcommerceEnterprise.UnitTests\obj\Debug\net8.0\refi
 D:\EcommerceEnterprise\tests\EcommerceEnterprise.UnitTests\obj\Debug\net8.0\EcommerceEnterprise.UnitTests.pdb
 D:\EcommerceEnterprise\tests\EcommerceEnterprise.UnitTests\obj\Debug\net8.0\EcommerceEnterprise.UnitTests.genruntimeconfig.cache
 D:\EcommerceEnterprise\tests\EcommerceEnterprise.UnitTests\obj\Debug\net8.0\ref\EcommerceEnterprise.UnitTests.dll
+D:\EcommerceEnterprise\tests\EcommerceEnterprise.UnitTests\obj\Debug\net8.0\EcommerceEnterprise.UnitTests.sourcelink.json

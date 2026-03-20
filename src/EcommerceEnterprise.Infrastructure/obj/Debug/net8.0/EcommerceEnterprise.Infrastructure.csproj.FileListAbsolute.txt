@@ -17,3 +17,4 @@ D:\EcommerceEnterprise\src\EcommerceEnterprise.Infrastructure\obj\Debug\net8.0\E
 D:\EcommerceEnterprise\src\EcommerceEnterprise.Infrastructure\obj\Debug\net8.0\ref\EcommerceEnterprise.Infrastructure.dll
 D:\EcommerceEnterprise\src\EcommerceEnterprise.Infrastructure\bin\Debug\net8.0\EcommerceEnterprise.Infrastructure.runtimeconfig.json
 D:\EcommerceEnterprise\src\EcommerceEnterprise.Infrastructure\obj\Debug\net8.0\EcommerceEnterprise.Infrastructure.genruntimeconfig.cache
+D:\EcommerceEnterprise\src\EcommerceEnterprise.Infrastructure\obj\Debug\net8.0\EcommerceEnterprise.Infrastructure.sourcelink.json
